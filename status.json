@@ -1,7 +1,7 @@
 {
-  "code": "en",
-  "language": "English",
-  "maintainers": ["schacon"],
+  "code": "es",
+  "language": "Spanish",
+  "maintainers": ["andres-mancera"],
   "files": {
     "01-introduction": {
       "1-introduction.asc": 100,
