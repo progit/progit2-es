@@ -14,23 +14,23 @@
       "sections/installing.asc": 100
     },
     "02-git-basics": {
-      "1-git-basics.asc": 0,
+      "1-git-basics.asc": 100,
       "sections/aliases.asc": 0,
-      "sections/getting-a-repository.asc": 0,
-      "sections/recording-changes.asc": 0,
-      "sections/remotes.asc": 0,
-      "sections/tagging.asc": 0,
-      "sections/undoing.asc": 0,
-      "sections/viewing-history.asc": 0
+      "sections/getting-a-repository.asc": 100,
+      "sections/recording-changes.asc": 100,
+      "sections/remotes.asc": 100,
+      "sections/tagging.asc": 100,
+      "sections/undoing.asc": 100,
+      "sections/viewing-history.asc": 100
     },
     "03-git-branching": {
-      "1-git-branching.asc": 0,
-      "sections/basic-branching-and-merging.asc": 0,
-      "sections/branch-management.asc": 0,
-      "sections/nutshell.asc": 0,
-      "sections/rebasing.asc": 0,
-      "sections/remote-branches.asc": 0,
-      "sections/workflows.asc": 0
+      "1-git-branching.asc": 100,
+      "sections/basic-branching-and-merging.asc": 100,
+      "sections/branch-management.asc": 100,
+      "sections/nutshell.asc": 100,
+      "sections/rebasing.asc": 100,
+      "sections/remote-branches.asc": 100,
+      "sections/workflows.asc": 100
     },
     "04-git-server": {
       "1-git-server.asc": 0,
