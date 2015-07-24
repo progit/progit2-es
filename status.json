@@ -77,11 +77,11 @@
       "sections/subtree-merges.asc": 0
     },
     "08-customizing-git": {
-      "1-customizing-git.asc": 0,
-      "sections/attributes.asc": 0,
-      "sections/config.asc": 0,
-      "sections/hooks.asc": 0,
-      "sections/policy.asc": 0
+      "1-customizing-git.asc": 100,
+      "sections/attributes.asc": 100,
+      "sections/config.asc": 100,
+      "sections/hooks.asc": 100,
+      "sections/policy.asc": 100
     },
     "09-git-and-other-scms": {
       "1-git-and-other-scms.asc": 0,
