@@ -47,7 +47,7 @@
     "05-distributed-git": {
       "1-distributed-git.asc": 99,
       "sections/contributing.asc": 0,
-      "sections/distributed-workflows.asc": 20,
+      "sections/distributed-workflows.asc": 100,
       "sections/maintaining.asc": 0
     },
     "06-github": {
