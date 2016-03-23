@@ -45,10 +45,10 @@
       "sections/smart-http.asc": 100
     },
     "05-distributed-git": {
-      "1-distributed-git.asc": 99,
+      "1-distributed-git.asc": 100,
       "sections/contributing.asc": 0,
-      "sections/distributed-workflows.asc": 20,
-      "sections/maintaining.asc": 0
+      "sections/distributed-workflows.asc": 40,
+      "sections/maintaining.asc": 100
     },
     "06-github": {
       "1-github.asc": 100,
