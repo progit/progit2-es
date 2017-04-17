@@ -1,5 +1,7 @@
 output
 .DS_Store
+.classpath
+.project
 
 # build artifacts
 progit.html
@@ -9,3 +11,4 @@ progit.epub
 progit-kf8.epub
 progit.mobi
 /images/
+/bin/
