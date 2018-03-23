@@ -14,7 +14,7 @@ gem 'asciidoctor-pdf-cjk-kai_gen_gothic', '~> 0.1.1'
 gem 'coderay'
 gem 'pygments.rb'
 gem 'thread_safe'
-gem 'epubcheck-ruby'
+gem 'epubcheck'
 gem 'kindlegen'
 
 gem 'octokit'

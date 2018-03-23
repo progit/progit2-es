@@ -52,7 +52,7 @@ GEM
     concurrent-ruby (1.0.5)
     css_parser (1.6.0)
       addressable
-    epubcheck-ruby (4.0.2.1)
+    epubcheck (3.0.1)
     faraday (0.14.0)
       multipart-post (>= 1.2, < 3)
     faraday-http-cache (2.0.0)
@@ -126,7 +126,7 @@ DEPENDENCIES
   asciidoctor-pdf-cjk-kai_gen_gothic (~> 0.1.1)
   awesome_print
   coderay
-  epubcheck-ruby
+  epubcheck
   github_changelog_generator!
   json
   kindlegen
