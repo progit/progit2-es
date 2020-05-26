@@ -24,11 +24,12 @@ GEM
   remote: https://rubygems.org/
   specs:
     Ascii85 (1.0.3)
-    activesupport (5.1.5)
+    activesupport (6.0.3.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
-      i18n (~> 0.7)
+      i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
+      zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
     afm (0.2.2)
@@ -49,7 +50,7 @@ GEM
       asciidoctor-pdf-cjk (~> 0.1.2)
     awesome_print (1.8.0)
     coderay (1.1.2)
-    concurrent-ruby (1.0.5)
+    concurrent-ruby (1.1.6)
     css_parser (1.6.0)
       addressable
     epubcheck (3.0.1)
@@ -61,14 +62,14 @@ GEM
       nokogiri (~> 1.6.1)
       rubyzip (>= 1.1.1)
     hashery (2.1.2)
-    i18n (0.9.5)
+    i18n (1.8.2)
       concurrent-ruby (~> 1.0)
     json (2.1.0)
     kindlegen (3.0.3)
       rake
       rubyzip
     mini_portile2 (2.1.0)
-    minitest (5.11.3)
+    minitest (5.14.1)
     multi_json (1.13.1)
     multipart-post (2.0.0)
     nokogiri (1.6.8.1)
@@ -112,8 +113,9 @@ GEM
     treetop (1.5.3)
       polyglot (~> 0.3)
     ttfunk (1.5.1)
-    tzinfo (1.2.5)
+    tzinfo (1.2.7)
       thread_safe (~> 0.1)
+    zeitwerk (2.3.0)
 
 PLATFORMS
   ruby
